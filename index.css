@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.can {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px #bfbfbf;
+  outline: none;
+}
+.card {
+  height: 300px;
+  width: 250px;
+  padding: 5px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px #bfbfbf;
+  outline: none;
+}
+.hh {
+  color: #0b69ff;
+  font-family: 'Roboto';
+}
+.pp {
+  color: #333333;
+  font-family: 'Roboto';
+}
+.bb {
+  background-color: #0b69ff;
+  color: white;
+  padding: 1px;
+  cursor: pointer;
+}
